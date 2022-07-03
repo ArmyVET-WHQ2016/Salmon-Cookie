@@ -1,1 +1,87 @@
 
+header {
+    font-family: 'Salmon Cookies', cursive;
+  }
+  
+  body {
+    font-style: normal;
+    font-size: 1.5rem;
+    font-family: Georgia, Times;
+    font-weight: bold;
+    text-transform: capitalize;
+    text-align: center;
+    text-shadow: none;
+    background-color: blanchedalmond;
+  }
+  
+  h1 {
+    color: #eb5d0a
+  }
+  
+  h2 {
+    color: rgb(64, 185, 8);
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  h3 .sales {
+    color: rgb(64, 185, 8);
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  h4 {
+    color: #eb5d0a;
+  }
+  
+  button {
+    color: #0a6a0d;
+    /* Green */
+    background: #eb5d0a;
+    padding: 15px, 32px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 100;
+    transition: all 0.3s ease;
+  }
+  
+  .content .buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .butttons button:hover {
+    transform: scale (0.97);
+  }
+  
+  .buttons .item {
+    margin: 0 10px;
+  }
+  
+  .buttons a {
+    color: #eb5d0a;
+  }
+  
+  img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
+  
+  #tr {
+    display: inline;
+    flex-direction: row;
+  }
+  
+  #td {
+    word-spacing: 12em;
+  }
+  
+  p {
+    font-style: 40px;
+    color: rgb(10, 32, 155);
+    background-color: antiquewhite
+  }

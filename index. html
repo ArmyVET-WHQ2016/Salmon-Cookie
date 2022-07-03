@@ -1,1 +1,63 @@
 
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salmon Cookies</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <img src="img/salmon.png" id="salmon">
+    <style>
+        @import url("https://fonts.googleapis.com/css2?family=Nothing+You+Could+Do&display=swap");
+    </style>
+</head>
+
+<body>
+    <header>
+        <div>
+            <h1>Salmon Cookies</h1>
+
+    </header>
+
+    <main>
+
+        <p>Thanks to our dedicated customer and vendors! Our cookie sales has increased tremendously over
+            the last 4 years. Rockets sales are taken place over every location "by day and "by the hour at
+            its highest peak. As we merge into our 50 years of serving in 2022. We strive to partner with our
+            community of supporters and vendors to bring you more exquisite appeal and taste.
+        </p>
+
+        <div>
+            <img src="img/frosted-cookie.jpg">
+            <img src="img/shirt.jpg">
+            <img src="img/cutter.jpeg">
+            <img src="img/fish.jpg">
+            <img scr="img/chinook.jpg">
+        </div>
+
+        </header>
+    </main>
+
+    <h5>Contact Information</h5>
+    <div class="footer">
+        <p>
+        <h6>
+            <a href="tel:+1234567890">+1234567890</a>
+            </a></li><br>
+            <a href=" Seattle: Tokyo: Dubai: Paris: Lima"> Varies Locations:</a></li><br>
+            <a href="Monday-Friday"> Store Opens:</a></li><br>
+            <a href="6am-7pm"> Hours of Operations:</a></li><br>
+            <a href="https://github.com/ArmyVET-WHQ2016/cookie-stand">View Creator</a><br>
+        </h6>
+        </p>
+        <script src="app.js"></script>
+        <a href="sales.html">Sales</a>
+    </div>
+    </footer>
+</body>
+
+</html>
