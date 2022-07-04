@@ -3,7 +3,7 @@
 
 // ADD CONSTRUCTOR
 let storeLocHrs = ['6am', '7am', '8am', '9am', '10am', '11am', '12pm', '1pm', '2pm', '3pm', '4pm', '5pm', '6pm', '7pm', '8pm']; {
-  function genRandom(min, max) { }
+  function genRandom(min, max) { 
   return (Math.round(Math.random() * (min - max) + min));
 }
 
@@ -295,10 +295,9 @@ function NewFranCity(minCust, maxCust, avgCust, franName) {
 
     //     }
     // }
+  }
 
-    // }
-
-    // generateHourlyCustomers(Seattle);
+    // generateHourlyCustomers(Seattle);{
     // console.log('total,Seattle,generateHourlyCustomertotal', Seattle.hrSales)
     // generateHourlyCustomers(Tokyo);
     // console.log('total,Tokyo,generateHourlyCustomertotal', Tokyo.hrSales)
@@ -308,5 +307,3 @@ function NewFranCity(minCust, maxCust, avgCust, franName) {
     // console.log('total,Paris,generateHourlyCustomertotal', Paris.hrSales)
     // generateHourlyCustomers(Lima);
     // console.log('total,Lima,generateHourlyCustomertotal', Lima.hrSales)
-  }
-};
